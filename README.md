@@ -56,6 +56,8 @@ and does not require a hosted API key.
   product, design, security, and operations.
 - `data/job_descriptions/`: five fictional test job descriptions.
 - `notebooks/experimentation.ipynb`: runnable retrieval experiments and metrics.
+- `demo_video.mp4` and `demo_video.vtt`: 3.5-minute narrated visual walkthrough
+  with an optional WebVTT transcript.
 - `tests/`: dependency-free unit tests for parsing, chunking, filtering, and
   ranking.
 
@@ -78,9 +80,12 @@ performance.
 
 ## Demo video
 
-This repository does not include a recorded video. A short 3–4 minute demo can
-show: install and first-run model download; ingestion and Chroma persistence;
-one JD search; a must-have filter; and the notebook's accuracy/latency output.
+The [3.5-minute narrated walkthrough](./demo_video.mp4) covers the project
+architecture, resume ingestion, semantic retrieval, hybrid scoring, must-have
+filters, and notebook evaluation. Captions/transcript are available in
+[WebVTT format](./demo_video.vtt). The video is a visual walkthrough, not a
+screen recording of a live embedding run; the displayed candidate result is
+explicitly illustrative. Run the commands above to generate real results.
 
 ## Limitations
 

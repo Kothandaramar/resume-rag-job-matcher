@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.860
+Welcome to the Resume RAG and Job Matcher demo.
+
+00:00:03.860 --> 00:00:13.296
+In about three minutes, we will walk through how resumes are ingested, how job descriptions are searched, and how candidates are ranked.
+
+00:00:13.296 --> 00:00:20.588
+The project includes fictional sample data, so the walkthrough is safe to explore without real candidate information.
+
+00:00:20.588 --> 00:00:23.399
+The project has three main pieces.
+
+00:00:23.399 --> 00:00:38.395
+The filesystem utilities read resume files, the RAG pipeline splits the text into meaningful sections and stores embeddings in a local Chroma database, and the matcher combines semantic similarity with required-skill evidence.
+
+00:00:38.395 --> 00:00:43.550
+A Jupyter notebook evaluates ranked results using a small labeled benchmark.
+
+00:00:43.550 --> 00:00:48.085
+Ingestion supports text, Markdown, PDF, and Word documents.
+
+00:00:48.085 --> 00:01:01.122
+We list files recursively, extract the text, recognize headings such as Experience, Education, Skills, and Projects, then split long sections into overlapping chunks.
+
+00:01:01.122 --> 00:01:11.893
+Each vector keeps the candidate name, resume path, extracted skills, approximate experience, education, and section name as searchable metadata.
+
+00:01:11.893 --> 00:01:15.812
+The default embedder is a Hugging Face sentence-transformer running locally.
+
+00:01:15.812 --> 00:01:28.356
+Start with Python resume underscore R A G dot P Y, then search a job description with Python job underscore matcher dot P Y and the path to a job text file.
+
+00:01:28.356 --> 00:01:35.020
+Chroma persists the vectors between runs, so you only need to ingest again when the resumes change.
+
+00:01:35.020 --> 00:01:41.819
+For each job, the matcher embeds the description and retrieves semantically similar resume chunks.
+
+00:01:41.819 --> 00:01:49.589
+It then groups chunks by candidate and also checks critical skills directly in the resume text.
+
+00:01:49.589 --> 00:01:59.787
+By default, the score combines semantic similarity at sixty-five percent, required-skill coverage at twenty-five percent, and keyword evidence at ten percent.
+
+00:01:59.787 --> 00:02:03.673
+It is a ranking heuristic, not a probability.
+
+00:02:03.673 --> 00:02:11.341
+Requirements can be inferred from the job description or supplied explicitly with the must-have and minimum-years options.
+
+00:02:11.341 --> 00:02:19.010
+A candidate is excluded when a required skill is missing or the experience threshold is not met.
+
+00:02:19.010 --> 00:02:31.189
+The JSON response includes the candidate name, relative resume path, score from zero to one hundred, matched skills, relevant excerpts, and a short explanation of matched sections.
+
+00:02:31.189 --> 00:02:37.691
+The notebook runs the five labeled synthetic job descriptions against thirty fictional resumes.
+
+00:02:37.691 --> 00:02:43.192
+It reports top-one retrieval accuracy, mean reciprocal rank, and per-query latency.
+
+00:02:43.192 --> 00:02:53.194
+These measurements are useful to check that the pipeline runs, but a tiny generated benchmark cannot establish real-world hiring quality.
+
+00:02:53.194 --> 00:02:58.696
+Replace it with consented data and human-reviewed labels before drawing conclusions.
+
+00:02:58.696 --> 00:03:16.650
+To try it yourself, install the requirements, run resume underscore R A G dot P Y to build the index, and run job underscore matcher dot P Y with one of the files in data backslash job underscore descriptions.
+
+00:03:16.650 --> 00:03:19.872
+The first run downloads the embedding model.
+
+00:03:19.872 --> 00:03:26.317
+The README explains OpenAI as an optional provider, command-line filters, evaluation, and known limitations.
+
+00:03:26.317 --> 00:03:30.000
+Always keep humans in control of employment decisions.
