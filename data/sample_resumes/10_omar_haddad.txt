@@ -1,0 +1,14 @@
+Omar Haddad
+NLP Research Engineer
+
+Summary
+NLP Research Engineer with 5+ years of experience. Fine-tuned language models and evaluated retrieval-augmented question answering systems.
+
+Skills
+Python, NLP, LLM, PyTorch, Machine Learning
+
+Experience
+5+ years of experience delivering solutions as a NLP Research Engineer. Fine-tuned language models and evaluated retrieval-augmented question answering systems.
+
+Education
+Ph.D. Computational Linguistics

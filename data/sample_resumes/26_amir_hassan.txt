@@ -1,0 +1,14 @@
+Amir Hassan
+Analytics Engineer
+
+Summary
+Analytics Engineer with 6+ years of experience. Modeled Snowflake warehouse data and orchestrated tested analytics transformations.
+
+Skills
+SQL, Snowflake, Airflow, Python, Data Engineering, ETL
+
+Experience
+6+ years of experience delivering solutions as a Analytics Engineer. Modeled Snowflake warehouse data and orchestrated tested analytics transformations.
+
+Education
+B.S. Computer Science

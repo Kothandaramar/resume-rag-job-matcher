@@ -1,0 +1,14 @@
+Samira Patel
+Backend Engineer
+
+Summary
+Backend Engineer with 8+ years of experience. Built Spring services handling high-volume payments with resilient AWS deployments.
+
+Skills
+Java, Spring, AWS, Docker, SQL, Kubernetes
+
+Experience
+8+ years of experience delivering solutions as a Backend Engineer. Built Spring services handling high-volume payments with resilient AWS deployments.
+
+Education
+M.S. Software Engineering

@@ -1,0 +1,14 @@
+Noah Williams
+MLOps Engineer
+
+Summary
+MLOps Engineer with 7+ years of experience. Built reproducible model training pipelines and production monitoring for ML services.
+
+Skills
+Python, Kubernetes, Docker, AWS, Machine Learning, CI/CD
+
+Experience
+7+ years of experience delivering solutions as a MLOps Engineer. Built reproducible model training pipelines and production monitoring for ML services.
+
+Education
+B.S. Computer Science

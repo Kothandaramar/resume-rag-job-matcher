@@ -1,0 +1,14 @@
+Aisha Rahman
+Cloud Platform Engineer
+
+Summary
+Cloud Platform Engineer with 8+ years of experience. Migrated enterprise workloads to Azure and standardized secure infrastructure provisioning.
+
+Skills
+Azure, Kubernetes, Terraform, C#, Docker, Linux
+
+Experience
+8+ years of experience delivering solutions as a Cloud Platform Engineer. Migrated enterprise workloads to Azure and standardized secure infrastructure provisioning.
+
+Education
+M.S. Information Technology

@@ -1,0 +1,14 @@
+Grace Kim
+Computer Vision Engineer
+
+Summary
+Computer Vision Engineer with 6+ years of experience. Deployed vision models for quality inspection and optimized image inference on edge devices.
+
+Skills
+Python, PyTorch, Computer Vision, C++, Machine Learning
+
+Experience
+6+ years of experience delivering solutions as a Computer Vision Engineer. Deployed vision models for quality inspection and optimized image inference on edge devices.
+
+Education
+M.S. Electrical Engineering

@@ -1,0 +1,14 @@
+Zoe Fischer
+Research Data Scientist
+
+Summary
+Research Data Scientist with 6+ years of experience. Designed statistical studies and predictive models for healthcare research cohorts.
+
+Skills
+R, Python, Statistics, Machine Learning, Pandas
+
+Experience
+6+ years of experience delivering solutions as a Research Data Scientist. Designed statistical studies and predictive models for healthcare research cohorts.
+
+Education
+Ph.D. Statistics

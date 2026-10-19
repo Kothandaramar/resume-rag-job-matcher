@@ -1,0 +1,14 @@
+Nina Okafor
+Security Engineer
+
+Summary
+Security Engineer with 6+ years of experience. Hardened cloud environments, automated security checks, and led incident response investigations.
+
+Skills
+Cybersecurity, Python, Linux, Networking, AWS
+
+Experience
+6+ years of experience delivering solutions as a Security Engineer. Hardened cloud environments, automated security checks, and led incident response investigations.
+
+Education
+M.S. Cybersecurity

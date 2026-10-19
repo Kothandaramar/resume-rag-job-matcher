@@ -1,0 +1,9 @@
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+pypdf>=5.0.0
+python-docx>=1.1.0
+jupyter>=1.0.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+# Optional provider; install when using --provider openai.
+openai>=1.40.0

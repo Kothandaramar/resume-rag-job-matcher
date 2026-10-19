@@ -1,0 +1,14 @@
+Isabella Garcia
+Mobile Software Engineer
+
+Summary
+Mobile Software Engineer with 5+ years of experience. Shipped Android application features, offline synchronization, and mobile API integrations.
+
+Skills
+Java, Kotlin, REST, SQL, Git
+
+Experience
+5+ years of experience delivering solutions as a Mobile Software Engineer. Shipped Android application features, offline synchronization, and mobile API integrations.
+
+Education
+B.S. Software Engineering

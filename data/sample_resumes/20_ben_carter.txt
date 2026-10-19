@@ -1,0 +1,14 @@
+Ben Carter
+Systems Software Engineer
+
+Summary
+Systems Software Engineer with 8+ years of experience. Built low-latency network services and efficient systems tooling for distributed applications.
+
+Skills
+Rust, Go, Docker, Linux, Networking, C++
+
+Experience
+8+ years of experience delivering solutions as a Systems Software Engineer. Built low-latency network services and efficient systems tooling for distributed applications.
+
+Education
+B.S. Computer Engineering

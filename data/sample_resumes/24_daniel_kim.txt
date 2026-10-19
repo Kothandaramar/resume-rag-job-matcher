@@ -1,0 +1,14 @@
+Daniel Kim
+Data Scientist
+
+Summary
+Data Scientist with 7+ years of experience. Developed interpretable customer propensity models and deployed analytical workflows.
+
+Skills
+Python, SQL, scikit-learn, Pandas, Machine Learning, Statistics
+
+Experience
+7+ years of experience delivering solutions as a Data Scientist. Developed interpretable customer propensity models and deployed analytical workflows.
+
+Education
+M.S. Data Science

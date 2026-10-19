@@ -1,0 +1,3 @@
+DevOps Engineer
+
+Improve cloud delivery and infrastructure automation. Required: 6+ years of experience with AWS, Kubernetes, Terraform, and Docker. Build CI/CD systems and operate Linux environments.

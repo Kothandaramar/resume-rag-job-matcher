@@ -1,0 +1,14 @@
+Elena Petrova
+Python API Engineer
+
+Summary
+Python API Engineer with 6+ years of experience. Designed performant Python APIs and caching layers for a multi-tenant application.
+
+Skills
+Python, FastAPI, PostgreSQL, Redis, Docker, REST
+
+Experience
+6+ years of experience delivering solutions as a Python API Engineer. Designed performant Python APIs and caching layers for a multi-tenant application.
+
+Education
+B.S. Computer Science

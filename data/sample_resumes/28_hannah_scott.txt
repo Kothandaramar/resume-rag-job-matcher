@@ -1,0 +1,14 @@
+Hannah Scott
+Java Application Engineer
+
+Summary
+Java Application Engineer with 5+ years of experience. Developed Spring Boot services and deployed containerized applications to AWS.
+
+Skills
+Java, Spring, SQL, Kubernetes, AWS, REST
+
+Experience
+5+ years of experience delivering solutions as a Java Application Engineer. Developed Spring Boot services and deployed containerized applications to AWS.
+
+Education
+B.S. Information Systems

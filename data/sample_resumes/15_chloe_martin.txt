@@ -1,0 +1,14 @@
+Chloe Martin
+Frontend Engineer
+
+Summary
+Frontend Engineer with 5+ years of experience. Improved frontend performance and delivered reusable React components across web products.
+
+Skills
+JavaScript, TypeScript, React, HTML, CSS, REST
+
+Experience
+5+ years of experience delivering solutions as a Frontend Engineer. Improved frontend performance and delivered reusable React components across web products.
+
+Education
+B.S. Computer Science

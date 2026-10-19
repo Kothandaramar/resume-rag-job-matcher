@@ -1,0 +1,14 @@
+Luca Romano
+Cloud Data Engineer
+
+Summary
+Cloud Data Engineer with 6+ years of experience. Built GCP lakehouse ingestion and transformation systems for real-time business reporting.
+
+Skills
+GCP, Spark, Python, SQL, Data Engineering, ETL
+
+Experience
+6+ years of experience delivering solutions as a Cloud Data Engineer. Built GCP lakehouse ingestion and transformation systems for real-time business reporting.
+
+Education
+B.S. Applied Mathematics

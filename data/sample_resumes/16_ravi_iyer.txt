@@ -1,0 +1,14 @@
+Ravi Iyer
+Quality Automation Engineer
+
+Summary
+Quality Automation Engineer with 7+ years of experience. Developed automated API and regression testing integrated with continuous delivery pipelines.
+
+Skills
+Python, Java, SQL, Docker, Git, CI/CD
+
+Experience
+7+ years of experience delivering solutions as a Quality Automation Engineer. Developed automated API and regression testing integrated with continuous delivery pipelines.
+
+Education
+B.S. Information Technology

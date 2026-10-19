@@ -1,0 +1,14 @@
+Keiko Tanaka
+Security Operations Analyst
+
+Summary
+Security Operations Analyst with 5+ years of experience. Triaged security alerts, automated log analysis, and improved vulnerability response procedures.
+
+Skills
+Cybersecurity, Linux, Python, SQL, Networking
+
+Experience
+5+ years of experience delivering solutions as a Security Operations Analyst. Triaged security alerts, automated log analysis, and improved vulnerability response procedures.
+
+Education
+B.S. Cybersecurity

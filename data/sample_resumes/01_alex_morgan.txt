@@ -1,0 +1,14 @@
+Alex Morgan
+Machine Learning Engineer
+
+Summary
+Machine Learning Engineer with 6+ years of experience. Built production NLP classifiers and recommendation models, reducing inference cost by 28%.
+
+Skills
+Python, PyTorch, Machine Learning, NLP, FastAPI, AWS
+
+Experience
+6+ years of experience delivering solutions as a Machine Learning Engineer. Built production NLP classifiers and recommendation models, reducing inference cost by 28%.
+
+Education
+M.S. Computer Science

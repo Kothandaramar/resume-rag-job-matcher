@@ -1,0 +1,14 @@
+Taylor Brooks
+DevOps Engineer
+
+Summary
+DevOps Engineer with 7+ years of experience. Automated multi-region infrastructure with Terraform and Kubernetes, improving release frequency.
+
+Skills
+AWS, Kubernetes, Terraform, Docker, Linux, CI/CD
+
+Experience
+7+ years of experience delivering solutions as a DevOps Engineer. Automated multi-region infrastructure with Terraform and Kubernetes, improving release frequency.
+
+Education
+B.S. Computer Engineering

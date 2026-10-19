@@ -1,0 +1,14 @@
+Priya Shah
+Data Engineer
+
+Summary
+Data Engineer with 7+ years of experience. Designed reliable Spark and Airflow pipelines processing 4 TB of event data per day.
+
+Skills
+Python, SQL, Spark, Airflow, AWS, ETL, Data Engineering
+
+Experience
+7+ years of experience delivering solutions as a Data Engineer. Designed reliable Spark and Airflow pipelines processing 4 TB of event data per day.
+
+Education
+B.S. Information Systems

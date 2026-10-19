@@ -1,0 +1,14 @@
+Sofia Mendes
+Platform Engineer
+
+Summary
+Platform Engineer with 7+ years of experience. Created self-service Kubernetes infrastructure and internal platform tooling on GCP.
+
+Skills
+Kubernetes, Terraform, GCP, Go, Linux, Docker
+
+Experience
+7+ years of experience delivering solutions as a Platform Engineer. Created self-service Kubernetes infrastructure and internal platform tooling on GCP.
+
+Education
+M.S. Computer Engineering

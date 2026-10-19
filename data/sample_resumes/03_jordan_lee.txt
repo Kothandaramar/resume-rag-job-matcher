@@ -1,0 +1,14 @@
+Jordan Lee
+Full-Stack Engineer
+
+Summary
+Full-Stack Engineer with 5+ years of experience. Delivered customer-facing React applications and Node.js APIs for a SaaS platform.
+
+Skills
+TypeScript, React, Node.js, PostgreSQL, Docker, REST
+
+Experience
+5+ years of experience delivering solutions as a Full-Stack Engineer. Delivered customer-facing React applications and Node.js APIs for a SaaS platform.
+
+Education
+B.S. Software Engineering

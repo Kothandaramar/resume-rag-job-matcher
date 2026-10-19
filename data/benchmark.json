@@ -1,0 +1,22 @@
+[
+  {
+    "job_file": "01_ml_engineer.txt",
+    "expected_resume": "01_alex_morgan.txt"
+  },
+  {
+    "job_file": "02_data_engineer.txt",
+    "expected_resume": "02_priya_shah.txt"
+  },
+  {
+    "job_file": "03_fullstack_engineer.txt",
+    "expected_resume": "03_jordan_lee.txt"
+  },
+  {
+    "job_file": "04_devops_engineer.txt",
+    "expected_resume": "06_taylor_brooks.txt"
+  },
+  {
+    "job_file": "05_data_analyst.txt",
+    "expected_resume": "05_diego_alvarez.txt"
+  }
+]
